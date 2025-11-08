@@ -11,3 +11,6 @@
 Designed a Power BI dashboard to analyze COVID-19’s impact on students, revealing key insights into engagement, lifestyle trends, and online learning experiences. Delivered actionable recommendations to improve student wellness and digital learning outcomes.
 
 ---
+<p align="center">
+  <img src="Covid_Report_pic.png?raw=true" style="max-width:100%;height:auto;" alt="Image 1"/>
+</p> 
