@@ -10,6 +10,16 @@
 
 Designed a Power BI dashboard to analyze COVID-19’s impact on students, revealing key insights into engagement, lifestyle trends, and online learning experiences. Delivered actionable recommendations to improve student wellness and digital learning outcomes.
 
+Key Insights:
+•	Average self-study 2.9 hrs/day; lifestyle patterns similar across regions.
+•	Instagram most used; Quora least used among students.
+•	256 students from Delhi-NCR & 157students from non-NCR students reported very poor online class experiences.
+•	Top stress coping activities: listening to music (276) & online gaming (175).
+•	Majority used other gadgets for online classes (5 hrs/day); most students remained healthy with stable weight.
+•	Provided actionable recommendations for online learning improvement and student wellness programs like
+Increasing Interactivity in Virtual Classes, Taking regular Feedback and Emotional Check-ins from students, Faculty Training and Digital Literacy.
+
+
 ---
 <p align="center">
   <img src="Covid_Report_pic.png?raw=true" style="max-width:100%;height:auto;" alt="Image 1"/>
